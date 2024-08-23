@@ -55,4 +55,4 @@ This project makes use of the following open-source libraries and frameworks:
 - NumPy: https://numpy.org/
 - Chart.js: https://www.chartjs.org/
 
-We would like to express our gratitude to the developers of these tools for their invaluable contributions to the open-source community.
+We would like to express our gratitude to the developers of these tools for their valuable contributions to the open-source community.
